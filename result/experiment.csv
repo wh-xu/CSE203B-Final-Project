@@ -1,0 +1,2 @@
+	dataset	model	nway	kshot	kquery	n_problems	classifier_type	hidden_size	num_epochs	acc	ci95
+0	cifar-100	resnet18	5	5	15	300	MLP	512	100	72.04	1.06
